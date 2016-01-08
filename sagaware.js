@@ -6,7 +6,6 @@ function Sagaware( state, after){
 		throw new Error("Invalid starting state")
 	}
 	if( !Immutable.Iterable.isIterable(state)){
-		console.log("convert")
 		state= Immutable.fromJS(state)
 	}
 
