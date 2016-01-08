@@ -1,0 +1,21 @@
+{
+	"name": "sagaware",
+	"version": "1.0.0",
+	"description": "A sequence of (immutable) states.",
+	"main": "sagaware.js",
+	"dependencies": {
+		"immutable": "^3.7.6"
+	},
+	"devDependencies": {
+		"tape": "^4.4.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/sagaware"
+	},
+	"author": "rektide de la faye",
+	"license": "X"
+}
