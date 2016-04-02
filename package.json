@@ -1,6 +1,6 @@
 {
 	"name": "sagaware",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"description": "A sequence of (immutable) states.",
 	"main": "sagaware.js",
 	"dependencies": {
